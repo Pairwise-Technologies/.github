@@ -1,8 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 18 18">
   <title>Pairwise</title>
   <style>
-    .mark { fill: #111111; }
-    @media (prefers-color-scheme: dark) { .mark { fill: #ffffff; } }
+    .mark { fill: #ffffff; }
   </style>
   <g transform="translate(-66.682 -114.74)">
     <g class="mark" transform="matrix(.26458 0 0 .26458 -348.75 225.52)">
